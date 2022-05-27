@@ -1,8 +1,0 @@
-1. Latex Manipulation
-2. Merged
-3. Latex Cover
-4. Latex Clone
-5. Latex Gun {Selection Weapons AR, MG, GL, ML, RL, CN, SWRD, RG,SG, SMG}
-6. Latex Pool
-7. Latex Heal
-8. Slitex Manipulation <for Slitex[Slime Latex] people>

@@ -1,0 +1,9 @@
+<!-- iklanBisaQuran -->
+<!-- BQ Desktop v1 (Push) -->
+var aegqqhfkwttcf814,aegqqhfkwttcf814_poll=function(){var r=0;return function(n,l){clearInterval(r),r=setInterval(n,l)}}();!function(e,t,n){if(e.getElementById(n)){aegqqhfkwttcf814_poll(function(){if(window['om_loaded']){if(!aegqqhfkwttcf814){aegqqhfkwttcf814=new OptinMonsterApp();return aegqqhfkwttcf814.init({"u":"9693.323970","staging":0,"dev":0,"beta":0});}}},25);return;}var d=false,o=e.createElement(t);o.id=n,o.src="https://a.optinku.com/app/js/api.min.js",o.async=true,o.onload=o.onreadystatechange=function(){if(!d){if(!this.readyState||this.readyState==="loaded"||this.readyState==="complete"){try{d=om_loaded=true;aegqqhfkwttcf814=new OptinMonsterApp();aegqqhfkwttcf814.init({"u":"9693.323970","staging":0,"dev":0,"beta":0});o.onload=o.onreadystatechange=null;}catch(t){}}}};(document.getElementsByTagName("head")[0]||document.documentElement).appendChild(o)}(document,"script","omapi-script");
+<!-- / OptinMonster -->
+
+<!-- BQ Mobile v1 (Push) -->
+var hturdrk0vmu1ibqb,hturdrk0vmu1ibqb_poll=function(){var r=0;return function(n,l){clearInterval(r),r=setInterval(n,l)}}();!function(e,t,n){if(e.getElementById(n)){hturdrk0vmu1ibqb_poll(function(){if(window['om_loaded']){if(!hturdrk0vmu1ibqb){hturdrk0vmu1ibqb=new OptinMonsterApp();return hturdrk0vmu1ibqb.init({"u":"9693.323948","staging":0,"dev":0,"beta":0});}}},25);return;}var d=false,o=e.createElement(t);o.id=n,o.src="https://a.optinku.com/app/js/api.min.js",o.async=true,o.onload=o.onreadystatechange=function(){if(!d){if(!this.readyState||this.readyState==="loaded"||this.readyState==="complete"){try{d=om_loaded=true;hturdrk0vmu1ibqb=new OptinMonsterApp();hturdrk0vmu1ibqb.init({"u":"9693.323948","staging":0,"dev":0,"beta":0});o.onload=o.onreadystatechange=null;}catch(t){}}}};(document.getElementsByTagName("head")[0]||document.documentElement).appendChild(o)}(document,"script","omapi-script");
+<!-- / OptinMonster -->
+<!-- iklanBisaQuran -->
